@@ -1,0 +1,10 @@
+.shady{
+    filter: drop-shadow(3px 3px 3px rgb(82, 82, 82));
+    padding-left: 8rem;
+}
+
+.portoWid{
+    width: 33%;
+    height: 15rem;
+    vertical-align: middle;
+}

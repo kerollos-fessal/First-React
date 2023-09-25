@@ -1,0 +1,7 @@
+.hero{
+    height: 35vh;
+    background-image: url(hero-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+}
